@@ -1,4 +1,4 @@
-# Triangle-Manipulator
+# Triangle Project
 
 -Description-
 
@@ -21,3 +21,7 @@ To scale the triangle, enter any number in the text box shown above the "Scale" 
 Rotate
 
 To rotate the triangle, enter any number in the text box shown above the "Rotate X" button. Click the "Rotate X" button and the triangle should have rotated along the X axis. Click the "Rotate Y" button and the triangle should have rotated along the Y axis. Click the "Rotate Z" button and the triangle should have rotated along the Z axis.
+
+Clear
+
+To clear the panel of a previously drawn triangle, click the "Clear" button. The preexisting triangle should have disappeared and the user should be able create a new triangle.
